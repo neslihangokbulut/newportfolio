@@ -2,6 +2,6 @@
 
 This project was designed using HTML, CSS and JAVASCRİPT
 
-<h2>gif eklendi</h2>
+<h2> gif </h2>
 
 ![](portecran.gif)
